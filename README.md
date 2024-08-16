@@ -36,14 +36,19 @@ Agora neste momento foi aplicado novamente  pelo modelo de machine learning para
 
 ### O modelo de machine learning que melhor performou foi  Random Forest .
 
-
-- Acurácia: 0.9913495832430196
-
-- Precisão: 0.991124610469015
-
-- Recall: 0.9915548539857932
-
-- F1: 0.9913396855457577 
-
+Matriz de confuzão do Random Forest
 
 ![arda](https://github.com/user-attachments/assets/ef9a4008-2684-4130-bf10-e5cf79a13424)
+
+
+- Acurácia: 99,13%
+
+- Precisão: 99,11%
+
+- Recall: 99,15%
+
+- F1: 99,13% 
+
+
+
+
